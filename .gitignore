@@ -1,0 +1,7 @@
+player
+player.exe
+*.exe
+state.txt
+game.lock
+game_log.txt
+player_*.txt
